@@ -2,7 +2,7 @@
 #### *Software Engineer*
 
 ### *Contact Information:*
-phone number: +37529 2060307;
+phone number: +37529-206 03 07;
 e-mail: sergey.farino@mail.ru;
 telegram: @ra_sg.
 
