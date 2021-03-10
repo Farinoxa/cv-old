@@ -16,3 +16,6 @@ a {
     font-style: italic;
     font-weight: 700;
 }
+div{
+    margin: 0 auto;
+}
